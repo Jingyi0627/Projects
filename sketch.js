@@ -11,7 +11,12 @@ function preload() {
     imgs = [
         loadImage('images copy/1.png', () => { }, onImgError),
         loadImage('images copy/2.png', () => { }, onImgError),
-        loadImage('images copy/3.png', () => { }, onImgError)
+        loadImage('images copy/3.png', () => { }, onImgError),
+        loadImage('images copy/4.png', () => { }, onImgError),
+        loadImage('images copy/5.png', () => { }, onImgError),
+        loadImage('images copy/6.png', () => { }, onImgError),
+        loadImage('images copy/7.png', () => { }, onImgError),
+        loadImage('images copy/8.png', () => { }, onImgError),
     ];
 }
 
